@@ -1,6 +1,3 @@
-### 📷 Screenshot
-![Alt Text](banner.png)
-
 ### 📌 Description
 This script scans Indicators of Compromise (IoCs) such as IPs, domains, and file hashes using **VirusTotal** and **AbuseIPDb** APIs. The input is an **Excel file**, and results are saved back in an **Excel sheet**.
 
@@ -22,3 +19,9 @@ pip install -r requirements.txt # install the dependencies
 
 python bulk_scanner.py -h # for help
 ```
+
+### 📷 Screenshots
+![screenshoot1](screenshots/sc1.png)
+![screenshoot2](screenshots/sc2.png)
+![screenshoot3](screenshots/sc3.png)
+![screenshoot4](screenshots/sc4.png)

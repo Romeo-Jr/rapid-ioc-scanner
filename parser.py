@@ -4,7 +4,7 @@ from pathlib import Path
 from colorama import Fore, Style
 
 parser = ArgumentParser(
-        prog='bulk_scanner.py',
+        prog='rapidIocScanner.py',
         description =Fore.GREEN + 'IoC Scanner Using VirusTotal and AbuseIPDB API in Python (Supports Excel Files Only)' + Style.RESET_ALL,
         epilog='Simple Python script for SOC Analyst'
     )
